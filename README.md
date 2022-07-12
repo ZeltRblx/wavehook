@@ -1,7 +1,4 @@
 # wavehook
 
 Welcome to wavehook </br>
-Status:
-```dif
-!In Development
-```
+Status: ![#1589F0](In Development) `#1589F0`
