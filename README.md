@@ -1,4 +1,4 @@
 # wavehook
 
 Welcome to wavehook </br>
-Status: ``` dif ! In Development ```
+Status: ``` diff ! In Development ```
