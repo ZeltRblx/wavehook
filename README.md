@@ -1,4 +1,4 @@
 # wavehook
 
 Welcome to wavehook </br>
-Status: - ![#1589F0](In Development) `#1589F0`
+Status: - <span style="color:blue">In Development</span>
