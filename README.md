@@ -3,5 +3,5 @@
 Welcome to wavehook </br>
 Status:
 ```dif
-! In Development
+!In Development
 ```
